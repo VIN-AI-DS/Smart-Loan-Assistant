@@ -1,0 +1,22 @@
+# Core dependencies
+requests==2.31.0
+wave==0.0.2
+python-dotenv==1.0.0
+streamlit==1.28.0
+pyaudio==0.2.13
+
+# LangChain and related packages
+langchain==0.0.335
+langchain-groq==0.0.6
+langchain-community==0.0.13
+langgraph==0.0.19
+
+# Vector database and embeddings
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+
+# PDF processing
+PyPDF2==3.0.1
+
+# Pydantic for data validation
+pydantic==2.4.2
