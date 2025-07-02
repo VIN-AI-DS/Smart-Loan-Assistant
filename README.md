@@ -1,7 +1,7 @@
-# Smart Loan App
+# Smart Loan Assistant
 
 ## Overview
-Smart Loan App is a multilingual financial assistant that helps users with loan eligibility checks, financial tips, and loan application guidance. The application supports multiple Indian languages including English, Hindi, Tamil, Telugu, and Kannada, making financial information accessible to a wider audience.
+Smart Loan Assistant is a multilingual financial assistant that helps users with loan eligibility checks, financial tips, and loan application guidance. The application supports multiple Indian languages including English, Hindi, Tamil, Telugu, and Kannada, making financial information accessible to a wider audience.
 
 ## Features
 - **Multilingual Support**: Interact in English, Hindi, Tamil, Telugu, or Kannada
